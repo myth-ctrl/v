@@ -1,0 +1,8 @@
+{
+  "name": "Valentine AI Wishes",
+  "description": "Create beautiful, AI-powered Valentine's Day wishes with personalized messages, AI-generated romantic images, and cinematic AI videos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
